@@ -1,0 +1,42 @@
+body{
+    background-color: burlywood;
+}
+h1{
+    color: rgb(77, 17, 17);
+}
+
+
+.ana_detaylar{
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(155, 5, 5);
+    
+}  
+section{
+    background-color:burlywood;
+    width:800px;
+    height: 500px;
+    margin: auto;
+  width: 50%;
+ 
+  padding: 10px;
+}
+p{
+ display:inline;
+}
+section p{
+    text-decoration: underline;
+}
+section p strong{
+    color:rgb(155, 5, 5);
+}
+h2{
+    color:white;
+    display: inline;
+    background-color:rgb(155, 5, 5);
+    border-radius: 15px;
+}
+h3{
+    padding-left:450px;
+    font-family:'Courier New', Courier, monospace;
+}
